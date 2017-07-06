@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "git-changelog": "^1.1.2",
     "lerna": "^2.0.0-rc.5"
   }
 }

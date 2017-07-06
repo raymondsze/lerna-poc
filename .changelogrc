@@ -6,10 +6,11 @@
     "repo_url": "",
     "version_name" : "v1.0.0",
     "file": "CHANGELOG.md",
+    "template": "./node_modules/git-changelog/templates/template.md",
     "sections": [
         {
             "title": "Bug Fixes",
             "grep": "^fix"
-        },
+        }
     ]
 }
