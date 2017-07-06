@@ -1,0 +1,15 @@
+{
+    "app_name": "Git Changelog",
+    "logo": "https://github.com/raymondsze/lerna-poc.git",
+    "intro": "Lerna POC",
+    "branch" : "",
+    "repo_url": "",
+    "version_name" : "v1.0.0",
+    "file": "CHANGELOG.md",
+    "sections": [
+        {
+            "title": "Bug Fixes",
+            "grep": "^fix"
+        },
+    ]
+}
