@@ -4,7 +4,14 @@
 
 _Lerna POC_
 
-## v1.0.0 v1.1.0 ( Thu Jul 06 2017 10:48:07 GMT+0800 (HKT) )
+## v1.0.0 v1.1.0 ( Thu Jul 06 2017 10:48:54 GMT+0800 (HKT) )
+
+
+## Bug Fixes
+  - fix(testing2)
+  ([4c21e365](https://github.com/raymondsze/lerna-poc/commit/4c21e3659bc8b6dedd7da460cc5ab9b57d3f624e))
+
+
 
 
 
