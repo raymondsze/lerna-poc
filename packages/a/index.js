@@ -1,3 +1,3 @@
-import B from 'b';
+const B = require('b');
 
 console.log(B);
